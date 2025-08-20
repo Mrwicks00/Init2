@@ -1,0 +1,17 @@
+{
+  "name": "web2-class-project",
+  "version": "1.0.0",
+  "description": "A simple web development class project",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'Static site - no build required'"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "web-development"
+  ],
+  "author": "",
+  "license": "MIT"
+}
